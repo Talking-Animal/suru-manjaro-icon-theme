@@ -1,0 +1,1 @@
+# suru-manjaro-icon-theme
