@@ -13,14 +13,14 @@ Included scripts are free software licenced under the terms of the [GNU General 
 
 ## Installing & Using
 
-Suru-Manjaro inherits icons from the Suru icon theme. This repository will be focusing on Manjaro-specific icons and modifications, so it is recommended that the Suru icon theme is installed.
+Suru-Manjaro inherits icons from the Suru icon theme. This repository will be focusing on Manjaro-specific icons and modifications, so it is recommended that the Suru icon theme is installed alongside this one for full compatability.
 
 ```bash
 # install Suru
-sudo pacman -S suru-icon-theme-git
+yay -S suru-icon-theme-git
 ```
 
-You can build and install Suru-Manjaro from source using Meson.
+You can then build and install Suru-Manjaro from source using Meson.
 
 ```bash
 # build
