@@ -60,7 +60,7 @@ gsettings reset org.gnome.desktop.interface cursor-theme
 
 Contributions are obviously welcome! If you would like to contribute to this project, please have [read this](/CONTRIBUTING.md) regarding contributions.
 
-I personally have no intention from profiting from this project, so if you are interested in financially supportung Suru (and, by proxy, Suru-Manjaro), you can do so [here](https://snwh.org/donate).
+I personally have no intention from profiting from this project, so if you are interested in financially supportung Suru (and, by proxy, Suru-Manjaro), you can donate to Sam Hewitt [here](https://snwh.org/donate).
 
 ## Credit
 
