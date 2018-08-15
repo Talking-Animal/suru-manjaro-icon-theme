@@ -1,8 +1,0 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g color='#000' transform='translate(-332 -260)'>
-        
-        <path d='M343.5 263a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z' fill='gray' overflow='visible' style='marker:none'/>
-        <path d='M333 261v14h14v-14zm1 1h12v10h-12z' fill='gray' overflow='visible' style='marker:none'/>
-        <path d='M338 265.5l-3 5.5h8l-2.5-4.5-1 1.5z' fill='gray' overflow='visible' style='marker:none'/>
-    </g>
-</svg>

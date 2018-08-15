@@ -1,6 +1,0 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g color='#000' transform='translate(-472 -160)'>
-        <path d='M475.994 161c-1.258.015-2.179-.03-2.932.385a1.88 1.88 0 0 0-.837.998c-.165.438-.225.96-.225 1.617v8c0 .658.06 1.179.225 1.617.164.439.461.79.837.998.753.416 1.674.37 2.932.385H484.006c1.258-.015 2.179.03 2.932-.385a1.88 1.88 0 0 0 .838-.998c.164-.438.224-.96.224-1.617v-8c0-.658-.06-1.179-.225-1.617a1.88 1.88 0 0 0-.837-.998c-.753-.416-1.674-.37-2.932-.385h-8.008zm-.521 2.996a.5.5 0 0 1 .328.104l2 1.5a.5.5 0 0 1 0 .8l-2 1.5a.5.5 0 0 1-.602-.8l1.467-1.1-1.467-1.1a.5.5 0 0 1 .274-.904zM478 168h3v1h-3z' fill='gray' font-family='sans-serif' font-weight='400' overflow='visible' style='line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none' white-space='normal'/>
-        
-    </g>
-</svg>
