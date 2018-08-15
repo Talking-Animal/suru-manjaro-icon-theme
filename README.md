@@ -17,7 +17,7 @@ Suru-Manjaro inherits icons from the Suru icon theme. This repository will be fo
 
 ```bash
 # install Suru
-yay -S suru-icon-theme-git
+sudo pacman -S suru-icon-theme-git
 ```
 
 You can build and install Suru-Manjaro from source using Meson.
