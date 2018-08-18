@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Suru-Manjaro
 Comment=A desktop adaptation of the Ubuntu mobile icons modified for use with Manjaro Linux.
-Inherits=Suru,Humanity,hicolor
+Inherits=Suru,Papirus-Light-Maia,Humanity,hicolor
 Example=folder
 
 # Directory list
